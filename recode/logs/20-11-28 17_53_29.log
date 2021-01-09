@@ -1,0 +1,82 @@
+2020-11-28 17:53:29,629 - 20 - test_bee.py - 35 - lemon - INFO - **********测试用例开始执行***********
+2020-11-28 17:53:36,652 - 20 - basepage.py - 44 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-28 17:53:36,695 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-28 17:53:36,695 - 20 - basepage.py - 121 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-28 17:53:36,858 - 20 - basepage.py - 129 - lemon - INFO - 输入的内容为：18684720553
+2020-11-28 17:53:36,858 - 20 - basepage.py - 44 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-28 17:53:36,922 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-28 17:53:36,922 - 20 - basepage.py - 121 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-28 17:53:37,069 - 20 - basepage.py - 129 - lemon - INFO - 输入的内容为：python
+2020-11-28 17:53:37,069 - 20 - basepage.py - 44 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-28 17:53:37,118 - 20 - basepage.py - 52 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-28 17:53:37,118 - 20 - basepage.py - 100 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-28 17:53:37,192 - 20 - basepage.py - 108 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-28 17:53:37,192 - 20 - basepage.py - 44 - lemon - INFO - 在前程贷主页_对第一个标进行点击 等待元素('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')可见
+2020-11-28 17:53:39,698 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素可见
+2020-11-28 17:53:39,699 - 20 - basepage.py - 100 - lemon - INFO - 在前程贷主页_对第一个标进行点击 点击('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素
+2020-11-28 17:53:44,186 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素成功
+2020-11-28 17:53:44,186 - 20 - basepage.py - 44 - lemon - INFO - 在投资页面_获取用户余额 等待元素('xpath', '//div[@class="clearfix left"]//input')可见
+2020-11-28 17:53:44,219 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="clearfix left"]//input')元素可见
+2020-11-28 17:53:44,219 - 20 - basepage.py - 143 - lemon - INFO - 在投资页面_获取用户余额 获取('xpath', '//div[@class="clearfix left"]//input')元素的属性
+2020-11-28 17:53:44,245 - 20 - basepage.py - 151 - lemon - INFO - 该元素的属性值为:4925540133.89
+2020-11-28 17:53:44,246 - 20 - basepage.py - 44 - lemon - INFO - 在投资页面_点击【蜂群/公社】 等待元素('xpath', '//a[text()="蜂群/公社"]')可见
+2020-11-28 17:53:44,281 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//a[text()="蜂群/公社"]')元素可见
+2020-11-28 17:53:44,282 - 20 - basepage.py - 100 - lemon - INFO - 在投资页面_点击【蜂群/公社】 点击('xpath', '//a[text()="蜂群/公社"]')元素
+2020-11-28 17:53:45,449 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//a[text()="蜂群/公社"]')元素成功
+2020-11-28 17:53:45,449 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群次页面_将鼠标移动到第一个蜂群上 等待元素('xpath', '//div[@class="cap_box"]//div[@class="top_single mg_left5"]')可见
+2020-11-28 17:53:45,482 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="cap_box"]//div[@class="top_single mg_left5"]')元素可见
+2020-11-28 17:53:45,483 - 20 - basepage.py - 60 - lemon - INFO - 在蜂群次页面_将鼠标移动到第一个蜂群上 查找('xpath', '//div[@class="cap_box"]//div[@class="top_single mg_left5"]')元素
+2020-11-28 17:53:45,495 - 20 - basepage.py - 68 - lemon - INFO - ('xpath', '//div[@class="cap_box"]//div[@class="top_single mg_left5"]')元素找到，返回值为：<selenium.webdriver.remote.webelement.WebElement (session="9c27b6afe5fa867a9b33de3df8d3e1b1", element="3f13ad59-fa1f-4662-9fac-b429d368927b")>
+2020-11-28 17:53:45,495 - 20 - basepage.py - 228 - lemon - INFO - 在蜂群次页面_将鼠标移动到第一个蜂群上 将鼠标移动到('xpath', '//div[@class="cap_box"]//div[@class="top_single mg_left5"]')元素上
+2020-11-28 17:53:45,760 - 20 - basepage.py - 236 - lemon - INFO - 鼠标移动到元素上操作成功
+2020-11-28 17:53:45,760 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群次页面_点击【查看蜂群】按钮 等待元素('xpath', '//div[@class="capital_tit"]/parent::*//div[@class="top_single mg_left5"]//a')可见
+2020-11-28 17:53:45,788 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="capital_tit"]/parent::*//div[@class="top_single mg_left5"]//a')元素可见
+2020-11-28 17:53:45,788 - 20 - basepage.py - 100 - lemon - INFO - 在蜂群次页面_点击【查看蜂群】按钮 点击('xpath', '//div[@class="capital_tit"]/parent::*//div[@class="top_single mg_left5"]//a')元素
+2020-11-28 17:53:45,880 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//div[@class="capital_tit"]/parent::*//div[@class="top_single mg_left5"]//a')元素成功
+2020-11-28 17:53:45,889 - 20 - basepage.py - 266 - lemon - INFO - 在蜂群次页面_切换窗口 进行切换窗口
+2020-11-28 17:53:45,903 - 20 - basepage.py - 274 - lemon - INFO - 切换窗口成功
+2020-11-28 17:53:45,904 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_获取公产规模 等待元素('xpath', '//div[@class="examine_info_right examine_info_border width_div150"]//div')可见
+2020-11-28 17:53:47,941 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="examine_info_right examine_info_border width_div150"]//div')元素可见
+2020-11-28 17:53:47,941 - 20 - basepage.py - 164 - lemon - INFO - 在蜂群主页面_获取公产规模 获取('xpath', '//div[@class="examine_info_right examine_info_border width_div150"]//div')元素的文本值
+2020-11-28 17:53:47,966 - 20 - basepage.py - 172 - lemon - INFO - 该元素的文本值为：121.00元
+2020-11-28 17:53:47,966 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_点击【敲门红包】 等待元素('xpath', '//button[@class="red_packet"]')可见
+2020-11-28 17:53:47,996 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//button[@class="red_packet"]')元素可见
+2020-11-28 17:53:47,996 - 20 - basepage.py - 100 - lemon - INFO - 在蜂群主页面_点击【敲门红包】 点击('xpath', '//button[@class="red_packet"]')元素
+2020-11-28 17:53:48,046 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//button[@class="red_packet"]')元素成功
+2020-11-28 17:53:48,046 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_选择五元红包 等待元素('xpath', '//div[@id="layui-layer1"]//div[@data-value="5"]')可见
+2020-11-28 17:53:48,587 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@id="layui-layer1"]//div[@data-value="5"]')元素可见
+2020-11-28 17:53:48,587 - 20 - basepage.py - 100 - lemon - INFO - 在蜂群主页面_选择五元红包 点击('xpath', '//div[@id="layui-layer1"]//div[@data-value="5"]')元素
+2020-11-28 17:53:48,634 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//div[@id="layui-layer1"]//div[@data-value="5"]')元素成功
+2020-11-28 17:53:48,634 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_点击【确定】按钮发送红包 等待元素('xpath', '//div[@id="layui-layer1"]//button[@class="reward_ok btn btn-special"]')可见
+2020-11-28 17:53:48,664 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@id="layui-layer1"]//button[@class="reward_ok btn btn-special"]')元素可见
+2020-11-28 17:53:48,664 - 20 - basepage.py - 100 - lemon - INFO - 在蜂群主页面_点击【确定】按钮发送红包 点击('xpath', '//div[@id="layui-layer1"]//button[@class="reward_ok btn btn-special"]')元素
+2020-11-28 17:53:48,712 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//div[@id="layui-layer1"]//button[@class="reward_ok btn btn-special"]')元素成功
+2020-11-28 17:53:48,712 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_获取发送红包后的提示 等待元素('xpath', '//div[@class="layui-layer-content"]')可见
+2020-11-28 17:53:48,737 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="layui-layer-content"]')元素可见
+2020-11-28 17:53:48,738 - 20 - basepage.py - 164 - lemon - INFO - 在蜂群主页面_获取发送红包后的提示 获取('xpath', '//div[@class="layui-layer-content"]')元素的文本值
+2020-11-28 17:53:48,765 - 20 - basepage.py - 172 - lemon - INFO - 该元素的文本值为：1元
+2元
+3元
+4元
+5元
+您的敲门红包将贡献到该群的公产
+确定 取消
+2020-11-28 17:53:49,346 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_获取公产规模 等待元素('xpath', '//div[@class="examine_info_right examine_info_border width_div150"]//div')可见
+2020-11-28 17:53:49,372 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="examine_info_right examine_info_border width_div150"]//div')元素可见
+2020-11-28 17:53:49,372 - 20 - basepage.py - 164 - lemon - INFO - 在蜂群主页面_获取公产规模 获取('xpath', '//div[@class="examine_info_right examine_info_border width_div150"]//div')元素的文本值
+2020-11-28 17:53:49,401 - 20 - basepage.py - 172 - lemon - INFO - 该元素的文本值为：126.00元
+2020-11-28 17:53:49,401 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_点击【申请加入】 等待元素('xpath', '//button[@class="apply_join"]')可见
+2020-11-28 17:53:49,429 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//button[@class="apply_join"]')元素可见
+2020-11-28 17:53:49,429 - 20 - basepage.py - 100 - lemon - INFO - 在蜂群主页面_点击【申请加入】 点击('xpath', '//button[@class="apply_join"]')元素
+2020-11-28 17:53:49,486 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//button[@class="apply_join"]')元素成功
+2020-11-28 17:53:49,486 - 20 - basepage.py - 44 - lemon - INFO - 在蜂群主页面_点击【确定】申请加入蜂群 等待元素('xpath', '//div[@id="layui-layer3"]//a[@class="layui-layer-btn0"]')可见
+2020-11-28 17:54:19,977 - 20 - basepage.py - 214 - lemon - INFO - 当前截图存储在:e:\github\web_auto_frame_study\recode\screenshot\蜂群主页面_点击【确定】申请加入蜂群_20-11-28 17_54_09.png
+2020-11-28 17:54:19,977 - 40 - basepage.py - 49 - lemon - ERROR - 等待('xpath', '//div[@id="layui-layer3"]//a[@class="layui-layer-btn0"]')元素可见失败
+Traceback (most recent call last):
+  File "e:\github\web_auto_frame_study\common\basepage.py", line 46, in wait_ele_visible
+    WebDriverWait(self.driver,timeout,poll_time).until(EC.visibility_of_element_located(loc))
+  File "E:\Python3.8\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-11-28 17:54:19,978 - 20 - test_bee.py - 46 - lemon - INFO - **********测试用例结束***********

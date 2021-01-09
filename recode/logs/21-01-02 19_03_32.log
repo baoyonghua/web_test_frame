@@ -1,0 +1,18 @@
+2021-01-02 19:03:37,955 - 20 - basepage.py - 43 - lemon - INFO - 在百度首页_输入内容 等待元素('id', 'kw')可见
+2021-01-02 19:03:37,989 - 20 - basepage.py - 51 - lemon - INFO - ('id', 'kw')元素可见
+2021-01-02 19:03:37,990 - 20 - basepage.py - 120 - lemon - INFO - 在百度首页_输入内容 的文本框('id', 'kw')进行输入
+2021-01-02 19:03:38,149 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：selenium
+2021-01-02 19:03:38,149 - 20 - basepage.py - 43 - lemon - INFO - 在百度首页_点击搜索 等待元素('id', 'su')可见
+2021-01-02 19:03:38,189 - 20 - basepage.py - 51 - lemon - INFO - ('id', 'su')元素可见
+2021-01-02 19:03:38,190 - 20 - basepage.py - 99 - lemon - INFO - 在百度首页_点击搜索 点击('id', 'su')元素
+2021-01-02 19:03:38,277 - 20 - basepage.py - 107 - lemon - INFO - 点击('id', 'su')元素成功
+2021-01-02 19:03:38,277 - 20 - basepage.py - 43 - lemon - INFO - 在搜索页面_点击selenium 等待元素('xpath', '//a[text()="官方"]/preceding-sibling::*')可见
+2021-01-02 19:03:39,157 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//a[text()="官方"]/preceding-sibling::*')元素可见
+2021-01-02 19:03:39,157 - 20 - basepage.py - 99 - lemon - INFO - 在搜索页面_点击selenium 点击('xpath', '//a[text()="官方"]/preceding-sibling::*')元素
+2021-01-02 19:03:39,310 - 20 - basepage.py - 107 - lemon - INFO - 点击('xpath', '//a[text()="官方"]/preceding-sibling::*')元素成功
+2021-01-02 19:03:39,326 - 20 - basepage.py - 265 - lemon - INFO - 在百度搜索页面 进行切换窗口
+2021-01-02 19:03:39,359 - 20 - basepage.py - 273 - lemon - INFO - 切换窗口成功
+2021-01-02 19:03:39,359 - 20 - basepage.py - 43 - lemon - INFO - 在selenium_点击download按钮 等待元素('xpath', '//h3[text()="Selenium IDE"]/parent::*//a')可见
+2021-01-02 19:04:34,318 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//h3[text()="Selenium IDE"]/parent::*//a')元素可见
+2021-01-02 19:04:34,318 - 20 - basepage.py - 99 - lemon - INFO - 在selenium_点击download按钮 点击('xpath', '//h3[text()="Selenium IDE"]/parent::*//a')元素
+2021-01-02 19:04:36,424 - 20 - basepage.py - 107 - lemon - INFO - 点击('xpath', '//h3[text()="Selenium IDE"]/parent::*//a')元素成功

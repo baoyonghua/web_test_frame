@@ -1,0 +1,173 @@
+2020-11-26 20:13:34,541 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:13:34,573 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:13:34,573 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:13:34,696 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：18684720553
+2020-11-26 20:13:34,697 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:13:34,737 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:13:34,738 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:13:34,837 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：python
+2020-11-26 20:13:34,837 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:13:34,866 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:13:34,866 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:13:34,928 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:13:34,928 - 20 - basepage.py - 43 - lemon - INFO - 在前程贷主页_点击【个人中心】按钮 等待元素('xpath', '//img[@class="mr-5"]')可见
+2020-11-26 20:13:39,481 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//img[@class="mr-5"]')元素可见
+2020-11-26 20:13:39,481 - 20 - basepage.py - 99 - lemon - INFO - 在前程贷主页_点击【个人中心】按钮 点击('xpath', '//img[@class="mr-5"]')元素
+2020-11-26 20:14:09,622 - 20 - basepage.py - 107 - lemon - INFO - 点击('xpath', '//img[@class="mr-5"]')元素成功
+2020-11-26 20:14:09,622 - 20 - basepage.py - 43 - lemon - INFO - 在个人中心_获取用户余额 等待元素('xpath', '//li[@class="color_sub"]')可见
+2020-11-26 20:14:09,651 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//li[@class="color_sub"]')元素可见
+2020-11-26 20:14:09,651 - 20 - basepage.py - 163 - lemon - INFO - 在个人中心_获取用户余额 获取('xpath', '//li[@class="color_sub"]')元素的文本值
+2020-11-26 20:14:09,673 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：4925632704.89元
+2020-11-26 20:14:11,157 - 20 - basepage.py - 43 - lemon - INFO - 在前程贷主页_对第一个标进行点击 等待元素('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')可见
+2020-11-26 20:14:11,191 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素可见
+2020-11-26 20:14:11,191 - 20 - basepage.py - 99 - lemon - INFO - 在前程贷主页_对第一个标进行点击 点击('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素
+2020-11-26 20:14:17,141 - 20 - basepage.py - 107 - lemon - INFO - 点击('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素成功
+2020-11-26 20:14:17,141 - 20 - basepage.py - 43 - lemon - INFO - 在投资页面_获取标的剩余投资金额 等待元素('xpath', '//span[@class="mo_span4"]')可见
+2020-11-26 20:14:17,173 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//span[@class="mo_span4"]')元素可见
+2020-11-26 20:14:17,173 - 20 - basepage.py - 163 - lemon - INFO - 在投资页面_获取标的剩余投资金额 获取('xpath', '//span[@class="mo_span4"]')元素的文本值
+2020-11-26 20:14:17,203 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：46.16
+2020-11-26 20:14:17,203 - 20 - basepage.py - 43 - lemon - INFO - 在投资页面_输入投资金额 等待元素('xpath', '//div[@class="clearfix left"]//input')可见
+2020-11-26 20:14:17,241 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="clearfix left"]//input')元素可见
+2020-11-26 20:14:17,241 - 20 - basepage.py - 120 - lemon - INFO - 在投资页面_输入投资金额 的文本框('xpath', '//div[@class="clearfix left"]//input')进行输入
+2020-11-26 20:14:17,340 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：2000
+2020-11-26 20:14:17,340 - 20 - basepage.py - 43 - lemon - INFO - 在投资页面_点击投标按钮 等待元素('xpath', "//button[text()='投标']")可见
+2020-11-26 20:14:17,385 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', "//button[text()='投标']")元素可见
+2020-11-26 20:14:17,385 - 20 - basepage.py - 99 - lemon - INFO - 在投资页面_点击投标按钮 点击('xpath', "//button[text()='投标']")元素
+2020-11-26 20:14:17,439 - 20 - basepage.py - 107 - lemon - INFO - 点击('xpath', "//button[text()='投标']")元素成功
+2020-11-26 20:14:17,439 - 20 - basepage.py - 43 - lemon - INFO - 在投资页面_点击【查看并激活】按钮 等待元素('xpath', '//div[@class="layui-layer-content"]//button[contains(text(),"查看")]')可见
+2020-11-26 20:14:18,502 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="layui-layer-content"]//button[contains(text(),"查看")]')元素可见
+2020-11-26 20:14:18,502 - 20 - basepage.py - 99 - lemon - INFO - 在投资页面_点击【查看并激活】按钮 点击('xpath', '//div[@class="layui-layer-content"]//button[contains(text(),"查看")]')元素
+2020-11-26 20:14:44,849 - 20 - basepage.py - 107 - lemon - INFO - 点击('xpath', '//div[@class="layui-layer-content"]//button[contains(text(),"查看")]')元素成功
+2020-11-26 20:14:44,849 - 20 - basepage.py - 43 - lemon - INFO - 在个人中心_获取用户余额 等待元素('xpath', '//li[@class="color_sub"]')可见
+2020-11-26 20:14:44,880 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//li[@class="color_sub"]')元素可见
+2020-11-26 20:14:44,881 - 20 - basepage.py - 163 - lemon - INFO - 在个人中心_获取用户余额 获取('xpath', '//li[@class="color_sub"]')元素的文本值
+2020-11-26 20:14:44,905 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：4925630704.89元
+2020-11-26 20:14:49,761 - 20 - basepage.py - 43 - lemon - INFO - 在投资页面_获取标的剩余投资金额 等待元素('xpath', '//span[@class="mo_span4"]')可见
+2020-11-26 20:14:49,796 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//span[@class="mo_span4"]')元素可见
+2020-11-26 20:14:49,796 - 20 - basepage.py - 163 - lemon - INFO - 在投资页面_获取标的剩余投资金额 获取('xpath', '//span[@class="mo_span4"]')元素的文本值
+2020-11-26 20:14:49,827 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：45.96
+2020-11-26 20:14:49,827 - 20 - test_invest.py - 85 - lemon - INFO - pass
+2020-11-26 20:14:49,929 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:15:02,840 - 20 - test_login.py - 59 - lemon - INFO - *************登录失败场景1用例*************
+2020-11-26 20:15:02,840 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:15:02,872 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:15:02,872 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:15:02,941 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：
+2020-11-26 20:15:02,941 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:15:02,974 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:15:02,974 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:15:03,090 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：python
+2020-11-26 20:15:03,090 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:15:03,116 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:15:03,116 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:15:03,203 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:15:03,204 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_失败文本1 等待元素('xpath', '//div[@class="form-error-info"]')可见
+2020-11-26 20:15:03,231 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="form-error-info"]')元素可见
+2020-11-26 20:15:03,231 - 20 - basepage.py - 163 - lemon - INFO - 在登陆页面_失败文本1 获取('xpath', '//div[@class="form-error-info"]')元素的文本值
+2020-11-26 20:15:03,256 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：请输入手机号
+2020-11-26 20:15:03,374 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:15:26,453 - 20 - test_login.py - 59 - lemon - INFO - *************登录失败场景1用例*************
+2020-11-26 20:15:26,454 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:15:26,481 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:15:26,481 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:15:26,538 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：
+2020-11-26 20:15:26,538 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:15:26,572 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:15:26,573 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:15:26,636 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：
+2020-11-26 20:15:26,636 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:15:26,657 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:15:26,657 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:15:26,723 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:15:26,723 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_失败文本1 等待元素('xpath', '//div[@class="form-error-info"]')可见
+2020-11-26 20:15:26,744 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="form-error-info"]')元素可见
+2020-11-26 20:15:26,744 - 20 - basepage.py - 163 - lemon - INFO - 在登陆页面_失败文本1 获取('xpath', '//div[@class="form-error-info"]')元素的文本值
+2020-11-26 20:15:26,766 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：请输入手机号
+2020-11-26 20:15:26,911 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:15:43,115 - 20 - test_login.py - 59 - lemon - INFO - *************登录失败场景1用例*************
+2020-11-26 20:15:43,115 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:15:43,145 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:15:43,145 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:15:43,222 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：18684720553
+2020-11-26 20:15:43,222 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:15:43,261 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:15:43,261 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:15:43,336 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：
+2020-11-26 20:15:43,336 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:15:43,358 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:15:43,359 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:15:43,418 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:15:43,418 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_失败文本1 等待元素('xpath', '//div[@class="form-error-info"]')可见
+2020-11-26 20:15:43,441 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="form-error-info"]')元素可见
+2020-11-26 20:15:43,442 - 20 - basepage.py - 163 - lemon - INFO - 在登陆页面_失败文本1 获取('xpath', '//div[@class="form-error-info"]')元素的文本值
+2020-11-26 20:15:43,470 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：请输入密码
+2020-11-26 20:15:43,647 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:16:22,269 - 20 - test_login.py - 59 - lemon - INFO - *************登录失败场景1用例*************
+2020-11-26 20:16:22,269 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:16:22,304 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:16:22,304 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:16:22,416 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：1868472055
+2020-11-26 20:16:22,416 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:16:22,450 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:16:22,450 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:16:22,553 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：python
+2020-11-26 20:16:22,553 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:16:22,584 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:16:22,584 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:16:22,642 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:16:22,642 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_失败文本1 等待元素('xpath', '//div[@class="form-error-info"]')可见
+2020-11-26 20:16:22,666 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="form-error-info"]')元素可见
+2020-11-26 20:16:22,666 - 20 - basepage.py - 163 - lemon - INFO - 在登陆页面_失败文本1 获取('xpath', '//div[@class="form-error-info"]')元素的文本值
+2020-11-26 20:16:22,692 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：请输入正确的手机号
+2020-11-26 20:16:22,811 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:17:02,699 - 20 - test_login.py - 74 - lemon - INFO - *************登录失败场景2用例***************
+2020-11-26 20:17:04,181 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:17:04,210 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:17:04,210 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:17:04,351 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：17816094179
+2020-11-26 20:17:04,351 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:17:04,385 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:17:04,385 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:17:04,484 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：python
+2020-11-26 20:17:04,484 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:17:04,508 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:17:04,509 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:17:04,563 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:17:04,563 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_失败文本2 等待元素('xpath', '//div[@class="layui-layer-content"]')可见
+2020-11-26 20:17:05,097 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="layui-layer-content"]')元素可见
+2020-11-26 20:17:05,097 - 20 - basepage.py - 163 - lemon - INFO - 在登陆页面_失败文本2 获取('xpath', '//div[@class="layui-layer-content"]')元素的文本值
+2020-11-26 20:17:05,118 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：此账号没有经过授权，请联系管理员!
+2020-11-26 20:17:05,197 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:17:26,481 - 20 - test_login.py - 74 - lemon - INFO - *************登录失败场景2用例***************
+2020-11-26 20:17:26,481 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:17:26,508 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:17:26,508 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:17:26,619 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：18684720553
+2020-11-26 20:17:26,619 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:17:26,654 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:17:26,654 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:17:26,745 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：pythonsas
+2020-11-26 20:17:26,745 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:17:26,771 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:17:26,771 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:17:26,832 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:17:26,832 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_失败文本2 等待元素('xpath', '//div[@class="layui-layer-content"]')可见
+2020-11-26 20:17:27,368 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//div[@class="layui-layer-content"]')元素可见
+2020-11-26 20:17:27,368 - 20 - basepage.py - 163 - lemon - INFO - 在登陆页面_失败文本2 获取('xpath', '//div[@class="layui-layer-content"]')元素的文本值
+2020-11-26 20:17:27,391 - 20 - basepage.py - 171 - lemon - INFO - 该元素的文本值为：帐号或密码错误!
+2020-11-26 20:17:27,478 - 20 - test_login.py - 34 - lemon - INFO - ********登录测试用例前置条件***************
+2020-11-26 20:17:39,501 - 20 - test_login.py - 46 - lemon - INFO - ************登录成功用例****************
+2020-11-26 20:17:39,502 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-26 20:17:39,528 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-26 20:17:39,528 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-26 20:17:39,652 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：18684720553
+2020-11-26 20:17:39,652 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-26 20:17:39,682 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-26 20:17:39,682 - 20 - basepage.py - 120 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-26 20:17:39,782 - 20 - basepage.py - 128 - lemon - INFO - 输入的内容为：python
+2020-11-26 20:17:39,782 - 20 - basepage.py - 43 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-26 20:17:39,809 - 20 - basepage.py - 51 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-26 20:17:39,809 - 20 - basepage.py - 99 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-26 20:17:39,884 - 20 - basepage.py - 107 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-26 20:17:39,884 - 20 - basepage.py - 43 - lemon - INFO - 在前程贷主页_是否存在退出按钮 等待元素('xpath', '//a[text()="退出"]')可见
+2020-11-26 20:17:48,048 - 20 - basepage.py - 51 - lemon - INFO - ('xpath', '//a[text()="退出"]')元素可见

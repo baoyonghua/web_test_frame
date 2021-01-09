@@ -1,0 +1,26 @@
+2020-11-28 17:22:59,916 - 20 - test_bee.py - 34 - lemon - INFO - **********测试用例开始执行***********
+2020-11-28 17:23:06,787 - 20 - basepage.py - 44 - lemon - INFO - 在登陆页面_账号框 等待元素('xpath', '//input[@name="phone"]')可见
+2020-11-28 17:23:06,817 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//input[@name="phone"]')元素可见
+2020-11-28 17:23:06,817 - 20 - basepage.py - 121 - lemon - INFO - 在登陆页面_账号框 的文本框('xpath', '//input[@name="phone"]')进行输入
+2020-11-28 17:23:06,934 - 20 - basepage.py - 129 - lemon - INFO - 输入的内容为：18684720553
+2020-11-28 17:23:06,935 - 20 - basepage.py - 44 - lemon - INFO - 在登陆页面_密码框 等待元素('xpath', '//input[@name="password"]')可见
+2020-11-28 17:23:06,976 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//input[@name="password"]')元素可见
+2020-11-28 17:23:06,976 - 20 - basepage.py - 121 - lemon - INFO - 在登陆页面_密码框 的文本框('xpath', '//input[@name="password"]')进行输入
+2020-11-28 17:23:07,058 - 20 - basepage.py - 129 - lemon - INFO - 输入的内容为：python
+2020-11-28 17:23:07,058 - 20 - basepage.py - 44 - lemon - INFO - 在登陆页面_登录按钮 等待元素('tag name', 'button')可见
+2020-11-28 17:23:07,094 - 20 - basepage.py - 52 - lemon - INFO - ('tag name', 'button')元素可见
+2020-11-28 17:23:07,094 - 20 - basepage.py - 100 - lemon - INFO - 在登陆页面_登录按钮 点击('tag name', 'button')元素
+2020-11-28 17:23:07,152 - 20 - basepage.py - 108 - lemon - INFO - 点击('tag name', 'button')元素成功
+2020-11-28 17:23:07,152 - 20 - basepage.py - 44 - lemon - INFO - 在前程贷主页_对第一个标进行点击 等待元素('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')可见
+2020-11-28 17:23:10,129 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素可见
+2020-11-28 17:23:10,129 - 20 - basepage.py - 100 - lemon - INFO - 在前程贷主页_对第一个标进行点击 点击('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素
+2020-11-28 17:23:14,794 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//div[@class="b-unit-list clearfix"]//div[@class="b-unit"][1]//a[text()="抢投标"]')元素成功
+2020-11-28 17:23:14,794 - 20 - basepage.py - 44 - lemon - INFO - 在投资页面_获取用户余额 等待元素('xpath', '//div[@class="clearfix left"]//input')可见
+2020-11-28 17:23:14,828 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="clearfix left"]//input')元素可见
+2020-11-28 17:23:14,828 - 20 - basepage.py - 143 - lemon - INFO - 在投资页面_获取用户余额 获取('xpath', '//div[@class="clearfix left"]//input')元素的属性
+2020-11-28 17:23:14,856 - 20 - basepage.py - 151 - lemon - INFO - 该元素的属性值为:4925540543.89
+2020-11-28 17:23:14,857 - 20 - basepage.py - 44 - lemon - INFO - 在投资页面_点击【首页】 等待元素('xpath', '//div[@class="header "]//a[text()="投标"]')可见
+2020-11-28 17:23:14,884 - 20 - basepage.py - 52 - lemon - INFO - ('xpath', '//div[@class="header "]//a[text()="投标"]')元素可见
+2020-11-28 17:23:14,884 - 20 - basepage.py - 100 - lemon - INFO - 在投资页面_点击【首页】 点击('xpath', '//div[@class="header "]//a[text()="投标"]')元素
+2020-11-28 17:23:15,906 - 20 - basepage.py - 108 - lemon - INFO - 点击('xpath', '//div[@class="header "]//a[text()="投标"]')元素成功
+2020-11-28 17:23:15,907 - 20 - test_bee.py - 45 - lemon - INFO - **********测试用例结束***********
